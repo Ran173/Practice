@@ -1,0 +1,15 @@
+D:\Users\raindi\source\repos\EWF1\EWF1\obj\Debug\EWF1.csproj.AssemblyReference.cache
+D:\Users\raindi\source\repos\EWF1\EWF1\obj\Debug\EWF1.Form1.resources
+D:\Users\raindi\source\repos\EWF1\EWF1\obj\Debug\EWF1.Properties.Resources.resources
+D:\Users\raindi\source\repos\EWF1\EWF1\obj\Debug\EWF1.csproj.GenerateResource.cache
+D:\Users\raindi\source\repos\EWF1\EWF1\obj\Debug\EWF1.csproj.CoreCompileInputs.cache
+D:\Users\raindi\source\repos\EWF1\EWF1\bin\Debug\EWF1.exe.config
+D:\Users\raindi\source\repos\EWF1\EWF1\bin\Debug\EWF1.exe
+D:\Users\raindi\source\repos\EWF1\EWF1\bin\Debug\EWF1.pdb
+D:\Users\raindi\source\repos\EWF1\EWF1\obj\Debug\EWF1.exe
+D:\Users\raindi\source\repos\EWF1\EWF1\obj\Debug\EWF1.pdb
+D:\Users\raindi\source\repos\EWF1\EWF1\obj\Debug\EWF1.exe.config
+D:\Users\raindi\source\repos\EWF1\EWF1\bin\Debug\EWF1.exe.manifest
+D:\Users\raindi\source\repos\EWF1\EWF1\bin\Debug\EWF1.application
+D:\Users\raindi\source\repos\EWF1\EWF1\obj\Debug\EWF1.exe.manifest
+D:\Users\raindi\source\repos\EWF1\EWF1\obj\Debug\EWF1.application
